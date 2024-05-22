@@ -1,0 +1,7 @@
+Using the provided tools, generate the Executive Summary section of the monthly performance report, 
+summarizing the total sales revenue, average transaction value, and overall product mix efficiency for June 2023.
+Highlight key trends and potential factors influencing these trends.
+IMPORTANT:
+Use the provided report template in the file m.report.template.md to complete the task in the same layout and style as the provided template.
+Whenever you make a statement about a trend (up or down) or any comparative statement make sure you provide the hard numbers to back up your statement.
+
