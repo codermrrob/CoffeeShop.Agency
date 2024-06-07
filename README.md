@@ -4,7 +4,7 @@ An agency to enable ad-hoc english queries against the data, plus some views whi
 
 Because this is completely experimental it is currently implemented in a Jupyter notebook.
 
-Check the [Agency Swarm](https://github.com/VRSEN/agency-swarm) repo for more information on the underlying technology and how to use it.
+Check the [Agency Swarm](https://github.com/VRSEN/agency-swarm) repo for more information on the underlying framework and how to use it.
 
 
 ## The Data
