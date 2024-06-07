@@ -20,6 +20,8 @@ Currently only 1 view, use the `sales_analysis.sql` script to add the view to yo
 
 ## The Database
 
+This code assumes an MS SQL Server but you could easily implement any database in the `SQL Ad-hoc Query Tool`.
+This mini-project was done experimentally, as such an ad-hoc tool is useful enough but for a real agency I would likely prefer more specific tools for specific queries where that was applicable at least. This will increase consistency & reliability while reducing hallucinations. 
 You will need to add a file `config.json` in the same directory which should contain your MS SQL db connection string like:
 
 ```
