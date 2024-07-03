@@ -4,7 +4,7 @@ An agency to enable ad-hoc english queries against the data, plus some views whi
 
 Because this is completely experimental it is currently implemented in a Jupyter notebook.
 
-Check the [Agency Swarm](https://github.com/VRSEN/agency-swarm) repo for more information on the underlying technology and how to use it.
+Check the [Agency Swarm](https://github.com/VRSEN/agency-swarm) repo for more information on the underlying framework and how to use it.
 
 
 ## The Data
@@ -20,6 +20,8 @@ Currently only 1 view, use the `sales_analysis.sql` script to add the view to yo
 
 ## The Database
 
+This code assumes an MS SQL Server but you could easily implement any database in the `SQL Ad-hoc Query Tool`.
+This mini-project was done experimentally, as such an ad-hoc tool is useful enough but for a real agency I would likely prefer more specific tools for specific queries where that was applicable at least. This will increase consistency & reliability while reducing hallucinations. 
 You will need to add a file `config.json` in the same directory which should contain your MS SQL db connection string like:
 
 ```
